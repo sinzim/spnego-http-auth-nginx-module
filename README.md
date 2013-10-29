@@ -1,3 +1,7 @@
+Warning: This is a hacked version of the module and should not be used by
+anyone lightly. For the real deal go to
+https://github.com/stnoonan/spnego-http-auth-nginx-module
+
 Nginx module for HTTP SPNEGO auth
 =================================
 
